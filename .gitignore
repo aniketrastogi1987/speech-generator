@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv*/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Audio files (can be large)
+*.wav
+*.mp3
+*.m4a
+audio_output/
+generated_podcasts/
+
+# Model files (can be very large)
+xtts_v2_model/
+*.pth
+*.pt
+
+# Database files
+*.db
+*.sqlite
+chroma_db/
+lightweight_rag_db/
+
+# Logs
+logs/
+*.log
+
+#audio files
+*.wav
+audio_output/
+
+#rag
+lightweight_rag_db/
+prompts/prompt.txt
+prompts/summary-test.txt
+dataset/
+
+# Output files
+output/scripts/
+output/cleanup-scripts/
+demo_output/
+test_output/
+
+# Temporary files
+*.tmp
+*.temp 
+

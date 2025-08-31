@@ -1,0 +1,21 @@
+# Core TTS and PyTorch dependencies
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
+TTS==0.21.0
+
+# Audio processing
+librosa==0.10.0
+soundfile==0.13.1
+numpy==1.22.0
+scipy==1.11.4
+
+# LLM and RAG dependencies
+ollama==0.1.7
+loguru==0.7.3
+transformers==4.49.0 # Working version for XTTS-v2 compatibility
+
+# Additional utilities
+pathlib
+typing-extensions
+requests 

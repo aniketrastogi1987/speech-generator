@@ -1,0 +1,30 @@
+{
+  "timestamp": "20250901_012947",
+  "workflow_type": "generate_new",
+  "user_selections": {
+    "document_paths": [
+      "dataset/Ransomware_POV.pdf",
+      "dataset/Ransomware_report.pdf"
+    ],
+    "prompt_path": "prompt-ransomware",
+    "speed": {
+      "name": "normal",
+      "factor": 1.0
+    },
+    "energy": "medium",
+    "tone": "professional",
+    "duration": "long",
+    "speaker_count": 2,
+    "speaker_assignments": {
+      "Person 1": "female_sarah.wav",
+      "Person 2": "male_dara.wav"
+    },
+    "starting_speaker": "Person 1",
+    "tts_speaker_mapping": {
+      "Person 1": "female_sarah.wav",
+      "Person 2": "male_dara.wav"
+    },
+    "script_path": "output/scripts/script_prompt-ransomware_20250901_012947.txt"
+  },
+  "execution_status": "completed"
+}

@@ -1,0 +1,36 @@
+Title: Create a 9–11 minute detailed podcast script for “<Project Title>” using only insights and data from the provided document.
+
+The script must include:
+
+Opening
+    • Welcome and brief intro
+    • Timeline and geographic/project scope
+[Time: 30s]
+
+Purpose & Justification
+    • Explain the underlying goal and background details
+[Time: 60s]
+
+Summary of Deliverables / Results
+    • Describe documented conclusions, outcomes, or results
+[Time: 120s]
+
+Scope and Methods
+    • Explain the framework, period covered, and methodology used
+[Time: 60s]
+
+Key Themes
+    • Detail themes grouped into relevant categories (e.g., technical, operational, strategic)
+    • Emphasize challenges with metrics where applicable
+[Time: 210s]
+
+Stakeholder Responses or Follow-Up
+    • Describe how various teams or stakeholders are responding
+    • Mention documented priorities or follow-up commitments
+[Time: 45s]
+
+Conclusion
+    • Final neutral summary, restating impact and next steps
+[Time: 30s]
+
+Keep script within Total Duration: 555s (max). Maintain clarity, neutrality, and time compliance

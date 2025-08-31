@@ -1,0 +1,33 @@
+Title: Generate a 5–8 minute podcast narrative summarizing “<Project Title>” using the uploaded dataset.
+
+Organize the script in these sections:
+
+Intro
+   •  Welcome message
+   •  Timeframe and global/regional scope
+   •  Topic introduction
+[Time: 30s]
+
+Intent and Context
+    • State the motivation and objectives behind the work
+    • Use only factual context
+[Time: 45s]
+
+Results Summary
+    • Clearly express the high-level results or insights gained
+[Time: 100s]
+
+Activities
+    • Describe the work done: timeline, teams involved, or analysis performed
+[Time: 45s]
+
+Core Themes
+    • Summarize themes
+    • Provide any documented numerical/quantitative data
+[Time: 180s]
+
+Recommendations or Next Steps
+    • Outline the agreed response, planned actions, or strategic alignment
+[Time: 30s]
+
+Ensure the output is factual, neutral, and capped at total duration: 430s.

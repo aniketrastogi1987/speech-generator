@@ -1,0 +1,40 @@
+Title: Generate a full-length (12+ minutes) detailed summary podcast script on “<Project Title>” based on the input dataset.
+
+Structure:
+
+Introduction
+    • Welcome and episode framing
+    • Scope and timing of the work
+[Time: 45s]
+
+Contextual Background
+    • Explain why the project/work/report/study was initiated
+    • Include documented context only
+[Time: 75s]
+
+Objectives
+    • List key aims or research/evaluation objectives
+[Time: 60s]
+
+Approach & Execution
+    • Describe methodology, timeline, locations, tools, and involved stakeholders
+[Time: 90s]
+
+Findings
+    • Segment into categories by impact (e.g., Critical, Moderate, Low)
+    • Include relevant statistics or indicators
+[Time: 240s]
+
+Thematic Summaries
+    • Deep dive into each major theme or domain (e.g., performance, compliance, technical efficacy, impact)
+[Time: 180s]
+
+Implications & Recommendations
+    • Share documented next steps, realignments, future plans
+[Time: 60s]
+
+Wrap-Up
+    • Neutral conclusion summarizing impact and relevance
+[Time: 45s]
+
+Finish within total duration: 800s (13 minutes and 20 seconds). Do not add personal tone, commentary, or exceed section durations.

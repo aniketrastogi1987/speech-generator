@@ -1,0 +1,30 @@
+Title: Generate a 3–5 minute short podcast script describing “<Project Title>” based on the provided dataset.
+
+Structure the script as follows:
+    • Introduction
+    • Welcome message and clear naming of the topic.
+    • Include timeline and scope (e.g., global, regional, organizational).
+[Time: 30s]
+
+Project Objective & Context
+    • State the aim of the initiative and background rationale.
+[Time: 45s]
+
+Main Outcomes
+    • Summarize major conclusions or deliverables achieved.
+    • Avoid subjective remarks.
+[Time: 75s]
+
+Work Conducted
+    • Describe the approach, framework, or methodologies used.
+[Time: 30s]
+
+Challenges
+    • Summarize top 2–3 factual barriers identified.
+[Time: 45s]
+
+Forward Outlook
+    • Highlight what is expected next or what was recommended.
+[Time: 30s]
+
+End script at total duration: 255s. Stick strictly to time limits for each section.

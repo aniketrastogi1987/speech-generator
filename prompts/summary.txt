@@ -1,0 +1,29 @@
+Title: Generate a 2–3 minute summary podcast script on the topic “<Project Title>” based on the provided dataset.
+
+Use the following structure for the script:
+
+Introduction
+    • Open with: “Welcome to this quick overview of <Project Name>.”
+    • State the project timeline and its geographic or organizational scope.
+    • Introduce the core subject clearly.
+[Time: 20s]
+
+Purpose & Background
+    • State the primary goal of the project, study, or initiative.
+    • Provide only factual context from the dataset.
+[Time: 30s]
+
+Key Insights
+    • Present 2–3 critical takeaways or conclusions from the dataset.
+    • Ensure language is neutral and precise.
+[Time: 60s]
+
+Procedures / Methods Summary
+    • Briefly outline the scope, timeframe, or methods applied in the work.
+[Time: 20s]
+
+Next Steps or Reflections
+    • Highlight intended future actions, responses, or implications (if available in the dataset).
+[Time: 20s]
+
+Finish the script within total duration: 150s. Do not exceed allocated times for each section. Use a factual tone and avoid commentary.

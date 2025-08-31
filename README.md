@@ -348,8 +348,6 @@ python main.py --interactive
 - **Audio Generation**: XTTS-v2 with voice switching
 - **Output**: Clean script + continuous audio file
 
-## 🎨 Customization
-
 ### **Voice Types & Assignment**
 - **Flexible Mapping**: Assign any voice sample to any speaker role
 - **Gender Detection**: Automatic male/female voice detection by filename
@@ -368,7 +366,7 @@ python main.py --interactive
 - **Continuous Output**: Single audio file with seamless voice switching
 - **Format Optimization**: WAV format with optimal settings for XTTS-v2
 
-## 🚨 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -426,7 +424,7 @@ python main.py --interactive
 - **Sample Optimization**: Use optimized voice samples
 - **Resource Management**: Monitor memory usage during generation
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - **Real-time Recording**: Microphone input support
 - **Video Integration**: Video podcast generation
@@ -434,8 +432,6 @@ python main.py --interactive
 - **Voice Training**: Custom voice model training
 - **Streaming Support**: Live podcast generation
 - **Multi-language**: Support for multiple languages
-
-## 📚 API Reference
 
 ### Main Application
 
@@ -470,17 +466,6 @@ class InteractiveWorkflow:
     def _execute_existing_script_workflow()
 ```
 
-### Voice Sample Manager
-
-```python
-class VoiceSampleManager:
-    def __init__(samples_dir)
-    def create_sample_from_text(text, filename, voice_type)
-    def download_sample_from_url(url, filename)
-    def validate_sample(filepath)
-    def optimize_voice_sample(input_path, output_path)
-```
-
 ### XTTS Integration
 
 ```python
@@ -493,7 +478,7 @@ class XTTSIntegration:
     def create_continuous_podcast_audio(script_path, output_path, speaker_mapping)
 ```
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -501,25 +486,12 @@ class XTTSIntegration:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **XTTS-v2**: Coqui AI for the voice cloning technology
-- **gTTS**: Google Text-to-Speech for voice sample generation
-- **librosa**: Audio analysis and processing library
 - **SoundFile**: Audio file I/O library
 - **Ollama**: Local LLM inference framework
 - **Qwen 2.5**: Alibaba Cloud for the language model
-
-## 📞 Support
-
-For questions and support:
-- Create an issue on GitHub
-- Check the troubleshooting section
-- Review the API documentation
 
 ---
 

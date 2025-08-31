@@ -1,6 +1,6 @@
-# 🎙️ Complete Podcast Generator with Voice Cloning
+# 🎙️ Complete Text to Speech Generator with Voice Cloning
 
-A comprehensive system for generating podcasts using XTTS-v2 voice cloning technology. This system can create professional-quality podcasts with multiple speakers using AI-generated voice samples, integrated with RAG-based script generation and an intuitive interactive workflow.
+A comprehensive system for generating speech using XTTS-v2 voice cloning technology. This system can create professional-quality speeches with multiple speakers using AI-generated voice samples, integrated with RAG-based script generation and an intuitive interactive workflow.
 
 ## ✨ Features
 
@@ -10,11 +10,11 @@ A comprehensive system for generating podcasts using XTTS-v2 voice cloning techn
 - **📁 Enhanced Script Management**: Numbered list selection for scripts with file info
 - **🎙️ Voice Cloning**: Uses XTTS-v2 for high-quality voice replication
 - **👥 Multiple Speakers**: Support for 1-5 speakers with custom voice assignments
-- **🤖 Automatic Script Generation**: Creates podcast scripts based on topics using RAG and LLM
-- **⚡ Batch Processing**: Generate multiple podcast segments efficiently
+- **🤖 Automatic Script Generation**: Creates speech scripts based on topics using RAG and LLM
+- **⚡ Batch Processing**: Generate multiple speech segments efficiently
 - **🎵 Voice Sample Management**: Built-in tools for creating and managing voice samples
 - **📊 Quality Analysis**: Audio quality assessment and optimization
-- **📝 Custom Scripts**: Support for custom podcast scripts and dialogue
+- **📝 Custom Scripts**: Support for custom speech scripts and dialogue
 - **🔍 RAG Integration**: Retrieval-augmented generation for context-aware content
 - **🧠 LLM Integration**: Uses Ollama with Qwen 2.5 14B for script generation
 - **🧹 Intelligent Script Cleanup**: Removes time annotations, section headers, and markdown
@@ -27,7 +27,6 @@ A comprehensive system for generating podcasts using XTTS-v2 voice cloning techn
 ```bash
 # Clone the repository
 git clone <your-repo-url>
-cd Podcast-check
 
 # Create virtual environment
 python -m venv venv
@@ -284,7 +283,7 @@ python main.py --create-voice-samples
 ## 📁 Output Structure
 
 ```
-Podcast-check/
+speech-generator/
 ├── output/                    # Generated scripts (.txt files)
 │   ├── scripts/              # Original generated scripts
 │   └── cleanup-scripts/      # Cleaned scripts for user review
@@ -293,7 +292,7 @@ Podcast-check/
 ├── dataset/                  # PDF documents for RAG
 ├── prompts/                  # Prompt templates
 ├── logs/                     # Detailed operation logs
-└── generated_podcasts/       # Complete podcast outputs
+└── generated_speech/       # Complete speech outputs
 ```
 
 ## 🎯 Interactive Workflow Guide
@@ -427,10 +426,9 @@ python main.py --interactive
 ##  Future Enhancements
 
 - **Real-time Recording**: Microphone input support
-- **Video Integration**: Video podcast generation
 - **Advanced Scripting**: AI-powered script generation
 - **Voice Training**: Custom voice model training
-- **Streaming Support**: Live podcast generation
+- **Streaming Support**: Live speech generation
 - **Multi-language**: Support for multiple languages
 
 ### Main Application
@@ -473,9 +471,9 @@ class XTTSIntegration:
     def __init__(voice_samples_dir)
     def initialize_xtts(model_name)
     def clone_voice(text, voice_sample_path, output_path)
-    def create_podcast_segment(script_segment, voice_type, output_dir)
+    def create_speech_segment(script_segment, voice_type, output_dir)
     def batch_generate(script_segments, output_dir)
-    def create_continuous_podcast_audio(script_path, output_path, speaker_mapping)
+    def create_continuous_speech_audio(script_path, output_path, speaker_mapping)
 ```
 
 ## Contributing
